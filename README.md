@@ -15,23 +15,8 @@
 <p>Through my time at bootcamp I've developed various coding skills to build fullstack apps</p>
 
 React  
+Typescript
 Javascript  
 NodeJS  
 MongoDB  
-MySQL  
-Agile  
-CSS/Bootstrap  
-AWS  
-PWAs  
-MERN  
-MVC
-
-###
-
-![growth](/assets/growth.jpeg)
-
-<p>As I learn as a developerm I'll always want to grow my skills, but for now I'm focused on a couple things:</p>
-
-C++  
-C#  
-Docker
+MySQL   
