@@ -19,4 +19,5 @@ Typescript
 Javascript  
 NodeJS  
 MongoDB  
-MySQL   
+MySQL  
+and many more!
